@@ -75,7 +75,7 @@ This project is open-source and available under the MIT License.
 🙌 Acknowledgements
 Inspired by beginner JavaScript projects
 Great for learning DOM manipulation
-👨‍💻 Author
+👨‍💻 Author Deep Thakur
 GitHub: @deepthinkss
 
 ---
